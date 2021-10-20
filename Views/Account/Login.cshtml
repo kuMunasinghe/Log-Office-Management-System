@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Welcome to Log Office";
+    Layout = "~/Views/LoginLayout.cshtml";
+   
+}
+<!-- login form -->
+<section class="w3l-login">
+    <div class="overlay">
+        <div class="wrapper">
+            <div class="logo">
+
+                <img src="~/images/c.png" width="120" height="100">
+                <br>
+                <h1 style="color:white;">Log Office Management System</h1>
+            </div>
+            <div class="form-section">
+                <h3>Guest Login</h3>
+                <br>
+                <h6>To continue , Enter the credentials.</h6>
+                <form action="Verify" method="post" class="signin-form">
+                    <div class="form-input">
+                        <input type="text" name="UserID" placeholder="UserID" required="" autofocus>
+                    </div>
+                    <div class="form-input">
+                        <input type="password" name="Password" placeholder="Password" required="">
+                    </div>
+                    <button type="submit" class="btn btn-outline-primary theme-button mt-4">Log in </button>
+
+                </form>
+               
+            </div>
+        </div>
+      
+    </div>
+    <div id='stars'></div>
+    <div id='stars2'></div>
+    <div id='stars3'></div>
+
+    <!-- copyright -->
+    <div class="copy-right">
+        <p>&copy;Intake #36 IT/IS Group No: 2 ; All rights reserved 2020 | Design by K. U. Munasinghe</p>
+    </div>
+    <!-- //copyright -->
+</section>
+
+<!-- /login form -->

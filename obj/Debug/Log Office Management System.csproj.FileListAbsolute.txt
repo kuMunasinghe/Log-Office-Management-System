@@ -1,0 +1,57 @@
+E:\Log Office Management System\bin\Log Office Management System.dll.config
+E:\Log Office Management System\bin\Log Office Management System.dll
+E:\Log Office Management System\bin\Log Office Management System.pdb
+E:\Log Office Management System\bin\roslyn\csc.exe
+E:\Log Office Management System\bin\roslyn\csc.exe.config
+E:\Log Office Management System\bin\roslyn\csc.rsp
+E:\Log Office Management System\bin\roslyn\csi.exe
+E:\Log Office Management System\bin\roslyn\csi.exe.config
+E:\Log Office Management System\bin\roslyn\csi.rsp
+E:\Log Office Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Log Office Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Log Office Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Log Office Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Log Office Management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Log Office Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Log Office Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Log Office Management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Log Office Management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Log Office Management System\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Log Office Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Log Office Management System\bin\roslyn\System.Collections.Immutable.dll
+E:\Log Office Management System\bin\roslyn\System.Reflection.Metadata.dll
+E:\Log Office Management System\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Log Office Management System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Log Office Management System\bin\roslyn\vbc.exe
+E:\Log Office Management System\bin\roslyn\vbc.exe.config
+E:\Log Office Management System\bin\roslyn\vbc.rsp
+E:\Log Office Management System\bin\roslyn\VBCSCompiler.exe
+E:\Log Office Management System\bin\roslyn\VBCSCompiler.exe.config
+E:\Log Office Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Log Office Management System\bin\Microsoft.Web.Infrastructure.dll
+E:\Log Office Management System\bin\System.Web.Helpers.dll
+E:\Log Office Management System\bin\System.Web.Mvc.dll
+E:\Log Office Management System\bin\System.Web.Razor.dll
+E:\Log Office Management System\bin\System.Web.Webpages.Deployment.dll
+E:\Log Office Management System\bin\System.Web.Webpages.dll
+E:\Log Office Management System\bin\System.Web.Webpages.Razor.dll
+E:\Log Office Management System\bin\System.Web.Razor.xml
+E:\Log Office Management System\bin\System.Web.Webpages.xml
+E:\Log Office Management System\bin\System.Web.Webpages.Deployment.xml
+E:\Log Office Management System\bin\System.Web.Webpages.Razor.xml
+E:\Log Office Management System\bin\System.Web.Helpers.xml
+E:\Log Office Management System\bin\System.Web.Mvc.xml
+E:\Log Office Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Log Office Management System\obj\Debug\Log Office Management System.csprojAssemblyReference.cache
+E:\Log Office Management System\obj\Debug\Log Office Management System.csproj.CoreCompileInputs.cache
+E:\Log Office Management System\obj\Debug\Log Office Management System.csproj.CopyComplete
+E:\Log Office Management System\obj\Debug\Log Office Management System.dll
+E:\Log Office Management System\obj\Debug\Log Office Management System.pdb
+E:\Log Office Management System\bin\EntityFramework.dll
+E:\Log Office Management System\bin\EntityFramework.SqlServer.dll
+E:\Log Office Management System\bin\EntityFramework.SqlServer.xml
+E:\Log Office Management System\bin\roslyn\System.Buffers.dll
+E:\Log Office Management System\bin\roslyn\System.Memory.dll
+E:\Log Office Management System\bin\roslyn\System.Numerics.Vectors.dll
+E:\Log Office Management System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Log Office Management System\bin\EntityFramework.xml
