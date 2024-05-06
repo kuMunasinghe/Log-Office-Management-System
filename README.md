@@ -1,2 +1,6 @@
-# log_office_management_system
-log office management system for KDU 4th semester project. This is a individual project done in 2020
+# Log Office Management System :fa-table:
+log office management system for KDU 2nd year project . This is a individual project done by me in 2020
+
+**This is not a finished product.**
+
+> But feel free to do what ever you want to do
